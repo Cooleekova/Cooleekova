@@ -2,4 +2,4 @@
 
 👀 I am eager to gain more programming experience. 
 
-📫 You can easily reach me in Telegram --> [click here](https://t.me/cooleekova)
+📫 You can easily reach me in Telegram --> [click here](https://t.me/cooleekova) or by email [cooleekova@gmail.com](mailto:cooleekova@gmail.com)
