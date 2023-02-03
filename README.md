@@ -10,12 +10,3 @@
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cooleekova&show_icons=true&count_private=true&hide_border=true&title_color=b100cd&icon_color=b100cd&text_color=c9d1d9&bg_color=0d1117" alt="Github stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cooleekova&layout=compact&hide_border=true&title_color=b100cd&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cooleekova}/count.svg" /></p> 
-<br></div>
-
-
-
-
